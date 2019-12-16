@@ -1,0 +1,11 @@
+subscription_id       = ""
+tenant_id             = ""
+client_id             = ""
+client_secret         = ""
+
+env_name              = ""
+env_short_name        = ""
+location              = ""
+ops_manager_image_uri = "https://opsmanagerwestus.blob.core.windows.net/images/ops-manager-2.7.8-build.234.vhd"
+dns_suffix            = ""
+vm_admin_username     = ""

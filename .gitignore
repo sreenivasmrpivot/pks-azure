@@ -1,0 +1,8 @@
+scripts/downloads/
+acclst.json
+adapp.json
+terraform copy.tfvars
+pks_worker_role.json
+pks_master_role.json
+opsman.txt
+scripts/.DS_Store
